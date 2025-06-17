@@ -1,6 +1,5 @@
 const catchAsyncErrors = require("../middleware/catchAsyncErrors");
 const axios = require("axios");
-const { response } = require("express");
 
 const qs = require("qs");
 
